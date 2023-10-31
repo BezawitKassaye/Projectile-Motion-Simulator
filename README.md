@@ -11,7 +11,7 @@ and launch height of the projectile and can calculate the height, horizontal ran
 This variable is calculated by way of the z-component of the projectile motion vector. We then solve for t using the quadratic
 equation:
 
-        <img width="202" alt="image" src="https://github.com/BezawitKassaye/Projectile-Motion-Simulator/assets/98127667/55a9b42f-4b9e-4839-8b48-cbcbe5963586">
+<img width="200" alt="image" src="https://github.com/BezawitKassaye/Projectile-Motion-Simulator/assets/98127667/55a9b42f-4b9e-4839-8b48-cbcbe5963586">
 
 
 
@@ -20,7 +20,7 @@ equation:
 This variable is calculated by using the x-component of the projectile motion vector. We provide the trajectory time variable as an input:
 
 
-          <img width="274" alt="image" src="https://github.com/BezawitKassaye/Projectile-Motion-Simulator/assets/98127667/fdc3279f-4dcc-41a7-8ef9-f8485be1c40d">
+<img width="200" alt="image" src="https://github.com/BezawitKassaye/Projectile-Motion-Simulator/assets/98127667/fdc3279f-4dcc-41a7-8ef9-f8485be1c40d">
 
 
 ### Maximum Height
@@ -29,14 +29,13 @@ This variable is calculated by using the z-component of the
 projectile motion vector. We find the maximum height by
 providing the trajectory time as an input: Equation Reference:
 
-<img width="293" alt="image" src="https://github.com/BezawitKassaye/Projectile-Motion-Simulator/assets/98127667/2ba5ecf9-f240-4f9a-83c4-b412f91bcf1b">
+<img width="200" alt="image" src="https://github.com/BezawitKassaye/Projectile-Motion-Simulator/assets/98127667/2ba5ecf9-f240-4f9a-83c4-b412f91bcf1b">
 
 
 
               Equation Reference: 
-𝑣0𝑧 = 𝑣0𝑆𝑖𝑛"θ"
-𝑣0𝑥 = 𝑣0𝐶𝑜𝑠"θ"
-<img width="232" alt="image" src="https://github.com/BezawitKassaye/Projectile-Motion-Simulator/assets/98127667/71d466a1-9e8f-48e5-893f-602aaad02c7d">
+
+<img width="200" alt="image" src="https://github.com/BezawitKassaye/Projectile-Motion-Simulator/assets/98127667/71d466a1-9e8f-48e5-893f-602aaad02c7d">
 
               
 ## Creating the Interface
