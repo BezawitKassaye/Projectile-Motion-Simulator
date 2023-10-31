@@ -10,7 +10,7 @@ and launch height of the projectile and can calculate the height, horizontal ran
 ### Trajectory Time
 This variable is calculated by way of the z-component of the projectile motion vector. We then solve for t using the quadratic
 equation:
-                  𝑧 = − 12 𝑔 𝑡 ! + 𝑣 " # 𝑡 + 𝑧 "
+                  𝑧 = − 1/2 𝑔(𝑡^2) + 𝑣 " # 𝑡 + 𝑧 "
                   𝑡=−𝑣0𝑧± 𝑣0𝑧!+2𝑔𝑧" −𝑔
 
 
