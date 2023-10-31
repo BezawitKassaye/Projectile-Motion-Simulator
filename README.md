@@ -10,8 +10,10 @@ and launch height of the projectile and can calculate the height, horizontal ran
 ### Trajectory Time
 This variable is calculated by way of the z-component of the projectile motion vector. We then solve for t using the quadratic
 equation:
-                  𝑧 = − 1/2 𝑔(𝑡^2) + 𝑣 " # 𝑡 + 𝑧 "
-                  𝑡=−𝑣0𝑧± 𝑣0𝑧!+2𝑔𝑧" −𝑔
+                  𝑧=−1/2 𝑔𝑡^2+𝑣_0𝑧 𝑡+𝑧_0<img width="380" alt="image" src="https://github.com/BezawitKassaye/Projectile-Motion-Simulator/assets/98127667/809bb5a8-9883-4d29-8a85-7af569b90ac8">
+
+                  =(−𝑣0𝑧±√(𝑣0𝑧^2+2𝑔𝑧_0 ))/(−𝑔)<img width="374" alt="image" src="https://github.com/BezawitKassaye/Projectile-Motion-Simulator/assets/98127667/b3a354f6-c6a1-4454-8af4-d4747497b32a">
+
 
 
 ### Range
