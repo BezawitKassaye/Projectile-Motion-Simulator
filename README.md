@@ -21,7 +21,7 @@ This variable is calculated by using the x-component of the projectile motion ve
 
 
 <img width="200" alt="image" src="https://github.com/BezawitKassaye/Projectile-Motion-Simulator/assets/98127667/fdc3279f-4dcc-41a7-8ef9-f8485be1c40d">
-
+ 
 
 ### Maximum Height
 
