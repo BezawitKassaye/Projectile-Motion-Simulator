@@ -31,6 +31,7 @@ providing the trajectory time as an input: Equation Reference:
 
 <img width="200" alt="image" src="https://github.com/BezawitKassaye/Projectile-Motion-Simulator/assets/98127667/2ba5ecf9-f240-4f9a-83c4-b412f91bcf1b">
 
+.
 <img width="200" alt="image" src="https://github.com/BezawitKassaye/Projectile-Motion-Simulator/assets/98127667/71d466a1-9e8f-48e5-893f-602aaad02c7d">
 
               
